@@ -10,6 +10,7 @@ langchain==0.0.324
 faiss-cpu==1.7.4
 streamlit==1.28.0
 PyPDF2==3.0.1
-torch==2.0.1+cpu  # Asegúrate de que es compatible con tu entorno
+torch==2.4.0  # Versión disponible en tu entorno
 torchvision==0.20.0
 sentence-transformers==2.2.2
+
